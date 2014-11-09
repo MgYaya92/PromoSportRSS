@@ -1,0 +1,80 @@
+<collection>
+	<result>
+		<number>1</number>
+		<team1>Napoli</team1>
+		<team2>Rome</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>2</number>
+		<team1>Parma</team1>
+		<team2>Inter Milan</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>3</number>
+		<team1>Chievo Verona</team1>
+		<team2>Sassuolo</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>4</number>
+		<team1>Sampdoria</team1>
+		<team2>Fiorentina</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>5</number>
+		<team1>Torino</team1>
+		<team2>Atalanta</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>6</number>
+		<team1>Udinese</team1>
+		<team2>Genoa</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>7</number>
+		<team1>Athletic de Bilbao</team1>
+		<team2>Seville</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>8</number>
+		<team1>Villarreal</team1>
+		<team2>FC Valence</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>9</number>
+		<team1>Everton</team1>
+		<team2>Swansea City</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>10</number>
+		<team1>Hull City</team1>
+		<team2>Southampton</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>11</number>
+		<team1>Stoke City</team1>
+		<team2>West ham</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>12</number>
+		<team1>Manchester City</team1>
+		<team2>Manchester United</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>13</number>
+		<team1>Aston Villa</team1>
+		<team2>Tottenham</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+</collection>

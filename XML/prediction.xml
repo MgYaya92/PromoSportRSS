@@ -1,0 +1,244 @@
+<rss version='2.0'>
+	<prediction>
+		<match>
+			<title>Liverpool - Chelsea</title>
+			<result>X</result>
+			<date>Sat, 08 Nov 2014 04:45:00 +0100</date>
+		</match>
+		<match>
+			<title>Brest - Le Havre</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 05:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Bayer Leverkusen - FSV Mayence</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>FC Augsburg - Paderborn</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Hoffenheim - FC Cologne</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Eintracht Francfort - Bayern Munich</title>
+			<result>2</result>
+			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>SC Fribourg - Schalke 04</title>
+			<result>X</result>
+			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Burnley - Hull City</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Manchester United - Crystal Palace</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Southampton - Leicester City</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
+		</match>
+		<match>
+			<title>West Ham - Aston Villa</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Almeria - Barcelone</title>
+			<result>2</result>
+			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Lens - Bordeaux</title>
+			<result>X</result>
+			<date>Sat, 08 Nov 2014 08:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Getafe - Elche</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 09:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Sassuolo - Atalanta Bergame</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 09:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Queen's Park Rangers - Manchester City</title>
+			<result>X</result>
+			<date>Sat, 08 Nov 2014 09:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Werder de Brême - VfB Stuttgart</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 09:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Bastia - Montpellier</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Caen - Nantes</title>
+			<result>X</result>
+			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Evian Thonon Gaillard - Nice</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Toulouse - Metz</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Real Madrid - Rayo Vallecano</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Sampdoria de Gênes - Milan AC</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 11:45:00 +0100</date>
+		</match>
+		<match>
+			<title>Celta Vigo - Granada CF</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 13:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Malaga - Eibar</title>
+			<result>1</result>
+			<date>Sat, 08 Nov 2014 13:00:00 +0100</date>
+		</match>
+		<match>
+			<title>FC Séville - Levante</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 03:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Cagliari - Genoa</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 03:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Lyon - Guingamp</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 05:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Sunderland - Everton</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Tottenham - Stoke City</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
+		</match>
+		<match>
+			<title>West Bromwich - Newcastle</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Chiévo Verone - Cesena</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Empoli - Lazio Rome</title>
+			<result>2</result>
+			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Juventus de Turin - Parme</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Palerme - Udinese</title>
+			<result>2</result>
+			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
+		</match>
+		<match>
+			<title>VfL Wolfsburg - Hambourg SV</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 06:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Swansea City - Arsenal</title>
+			<result>2</result>
+			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Reims - Lille</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Saint-Etienne - Monaco</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Espanyol Barcelone - Villarreal</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Borussia Dortmund - Borussia M'Gladbach</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 08:30:00 +0100</date>
+		</match>
+		<match>
+			<title>Fiorentina - Naples</title>
+			<result>2</result>
+			<date>Sun, 09 Nov 2014 09:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Valence - Athletic Bilbao</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 10:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Inter Milan - Verone</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 11:45:00 +0100</date>
+		</match>
+		<match>
+			<title>AS Roma - Torino</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 11:45:00 +0100</date>
+		</match>
+		<match>
+			<title>PSG - Marseille</title>
+			<result>1</result>
+			<date>Sun, 09 Nov 2014 12:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Real Sociedad - Atlético de Madrid</title>
+			<result>X</result>
+			<date>Sun, 09 Nov 2014 12:00:00 +0100</date>
+		</match>
+		<match>
+			<title>Nancy - Créteil-Lusitanos</title>
+			<result>1</result>
+			<date>Mon, 10 Nov 2014 11:30:00 +0100</date>
+		</match>
+	</prediction>
+</rss>

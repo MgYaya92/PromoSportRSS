@@ -1,0 +1,80 @@
+<collection>
+	<result>
+		<number>1</number>
+		<team1>Stade tunisien</team1>
+		<team2>Club Africain</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>2</number>
+		<team1>Espérance S.Tunis</team1>
+		<team2>Avenir S. de Gabès</team2>
+		<resultMatch>1</resultMatch>
+	</result>
+	<result>
+		<number>3</number>
+		<team1>Club S. Sfaxien</team1>
+		<team2>Jeunesse S.Kairouanaise</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>4</number>
+		<team1>Espérance S.de Zarzis</team1>
+		<team2>Etoile S.Sahel</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>5</number>
+		<team1>Club Atlétique Bizertin</team1>
+		<team2>Club S. Hammam-Lif</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>6</number>
+		<team1>El Gawafel S. Gafsa</team1>
+		<team2>Olympique de Béja</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>7</number>
+		<team1>Espoir S. Hamam-Sousse</team1>
+		<team2>Avenir S.La Marsa</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>8</number>
+		<team1>El Ahly de Mateur</team1>
+		<team2>C.S. mseken</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>9</number>
+		<team1>Jendouba Sport</team1>
+		<team2>Sporting El Moknine</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>10</number>
+		<team1>Association S.Djerba</team1>
+		<team2>Club Olym des Transports</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>11</number>
+		<team1>Club S.Korba</team1>
+		<team2>Olympique du Kef</team2>
+		<resultMatch>X</resultMatch>
+	</result>
+	<result>
+		<number>12</number>
+		<team1>Union S.Sbeitla</team1>
+		<team2>Kalâa sport</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+	<result>
+		<number>13</number>
+		<team1>Ettadhamen Sport</team1>
+		<team2>Ocean S. Karkenah</team2>
+		<resultMatch>2</resultMatch>
+	</result>
+</collection>
