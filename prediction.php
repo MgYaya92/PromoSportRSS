@@ -12,6 +12,7 @@
 		$homepage=substr($homepage,77,strlen($homepage));
 		$homepage =strip_tags($homepage);
 		$homepage = nl2br($homepage);
+		$homepage=str_replace("&deg;","°",$homepage);
 		
 		$table = explode("<br />",$homepage);
 		for($i=0;$i<sizeof($table);$i++)
