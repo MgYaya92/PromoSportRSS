@@ -1,244 +1,662 @@
 <rss version='2.0'>
-	<prediction>
-		<match>
-			<title>Liverpool - Chelsea</title>
-			<result>X</result>
-			<date>Sat, 08 Nov 2014 04:45:00 +0100</date>
-		</match>
-		<match>
-			<title>Brest - Le Havre</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 05:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Bayer Leverkusen - FSV Mayence</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>FC Augsburg - Paderborn</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Hoffenheim - FC Cologne</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Eintracht Francfort - Bayern Munich</title>
-			<result>2</result>
-			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>SC Fribourg - Schalke 04</title>
-			<result>X</result>
-			<date>Sat, 08 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Burnley - Hull City</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Manchester United - Crystal Palace</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Southampton - Leicester City</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
-		</match>
-		<match>
-			<title>West Ham - Aston Villa</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Almeria - Barcelone</title>
-			<result>2</result>
-			<date>Sat, 08 Nov 2014 07:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Lens - Bordeaux</title>
-			<result>X</result>
-			<date>Sat, 08 Nov 2014 08:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Getafe - Elche</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 09:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Sassuolo - Atalanta Bergame</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 09:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Queen's Park Rangers - Manchester City</title>
-			<result>X</result>
-			<date>Sat, 08 Nov 2014 09:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Werder de Brême - VfB Stuttgart</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 09:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Bastia - Montpellier</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Caen - Nantes</title>
-			<result>X</result>
-			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Evian Thonon Gaillard - Nice</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Toulouse - Metz</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Real Madrid - Rayo Vallecano</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 11:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Sampdoria de Gênes - Milan AC</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 11:45:00 +0100</date>
-		</match>
-		<match>
-			<title>Celta Vigo - Granada CF</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 13:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Malaga - Eibar</title>
-			<result>1</result>
-			<date>Sat, 08 Nov 2014 13:00:00 +0100</date>
-		</match>
-		<match>
-			<title>FC Séville - Levante</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 03:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Cagliari - Genoa</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 03:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Lyon - Guingamp</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 05:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Sunderland - Everton</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Tottenham - Stoke City</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
-		</match>
-		<match>
-			<title>West Bromwich - Newcastle</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 05:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Chiévo Verone - Cesena</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Empoli - Lazio Rome</title>
-			<result>2</result>
-			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Juventus de Turin - Parme</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Palerme - Udinese</title>
-			<result>2</result>
-			<date>Sun, 09 Nov 2014 06:00:00 +0100</date>
-		</match>
-		<match>
-			<title>VfL Wolfsburg - Hambourg SV</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 06:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Swansea City - Arsenal</title>
-			<result>2</result>
-			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Reims - Lille</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Saint-Etienne - Monaco</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Espanyol Barcelone - Villarreal</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 08:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Borussia Dortmund - Borussia M'Gladbach</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 08:30:00 +0100</date>
-		</match>
-		<match>
-			<title>Fiorentina - Naples</title>
-			<result>2</result>
-			<date>Sun, 09 Nov 2014 09:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Valence - Athletic Bilbao</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 10:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Inter Milan - Verone</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 11:45:00 +0100</date>
-		</match>
-		<match>
-			<title>AS Roma - Torino</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 11:45:00 +0100</date>
-		</match>
-		<match>
-			<title>PSG - Marseille</title>
-			<result>1</result>
-			<date>Sun, 09 Nov 2014 12:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Real Sociedad - Atlético de Madrid</title>
-			<result>X</result>
-			<date>Sun, 09 Nov 2014 12:00:00 +0100</date>
-		</match>
-		<match>
-			<title>Nancy - Créteil-Lusitanos</title>
-			<result>1</result>
-			<date>Mon, 10 Nov 2014 11:30:00 +0100</date>
-		</match>
-	</prediction>
+	<league nation='england'>
+		<Match>
+			<HomeTeam>Liverpool FC</HomeTeam>
+			<AwayTeam>Chelsea FC</AwayTeam>
+			<Date>08/11/2014 12:45</Date>
+			<Prediction1>19</Prediction1>
+			<PredictionX>39</PredictionX>
+			<Prediction2>42</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>2.15</AvgGoals>
+			<Weather>4&deg;-11&deg;</Weather>
+			<FinalScore>1 - 2HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>West Ham</HomeTeam>
+			<AwayTeam>Aston Villa</AwayTeam>
+			<Date>08/11/2014 15:00</Date>
+			<Prediction1>56</Prediction1>
+			<PredictionX>23</PredictionX>
+			<Prediction2>22</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.45</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Southampton</HomeTeam>
+			<AwayTeam>Leicester City</AwayTeam>
+			<Date>08/11/2014 15:00</Date>
+			<Prediction1>69</Prediction1>
+			<PredictionX>18</PredictionX>
+			<Prediction2>14</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 0</CorrectScore>
+			<AvgGoals>2.66</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>2 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Manchester United</HomeTeam>
+			<AwayTeam>Crystal Palace</AwayTeam>
+			<Date>08/11/2014 15:00</Date>
+			<Prediction1>54</Prediction1>
+			<PredictionX>36</PredictionX>
+			<Prediction2>10</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 0</CorrectScore>
+			<AvgGoals>2.75</AvgGoals>
+			<Weather>4&deg;-11&deg;</Weather>
+			<FinalScore>1 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Burnley FC</HomeTeam>
+			<AwayTeam>Hull City</AwayTeam>
+			<Date>08/11/2014 15:00</Date>
+			<Prediction1>23</Prediction1>
+			<PredictionX>40</PredictionX>
+			<Prediction2>37</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.50</AvgGoals>
+			<Weather>4&deg;-9&deg;</Weather>
+			<FinalScore>1 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>QPR</HomeTeam>
+			<AwayTeam>Manchester City</AwayTeam>
+			<Date>08/11/2014 17:30</Date>
+			<Prediction1>13</Prediction1>
+			<PredictionX>16</PredictionX>
+			<Prediction2>71</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>2 - 3</CorrectScore>
+			<AvgGoals>3.25</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>2 - 2HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>West Bromwich</HomeTeam>
+			<AwayTeam>Newcastle Utd</AwayTeam>
+			<Date>09/11/2014 13:30</Date>
+			<Prediction1>22</Prediction1>
+			<PredictionX>52</PredictionX>
+			<Prediction2>27</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>3.59</AvgGoals>
+			<Weather>4&deg;-11&deg;</Weather>
+			<FinalScore>0 - 2HT 0 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Tottenham</HomeTeam>
+			<AwayTeam>Stoke City</AwayTeam>
+			<Date>09/11/2014 13:30</Date>
+			<Prediction1>41</Prediction1>
+			<PredictionX>33</PredictionX>
+			<Prediction2>26</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.42</AvgGoals>
+			<Weather>4&deg;-9&deg;</Weather>
+			<FinalScore>1 - 2HT 0 - 2</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Sunderland</HomeTeam>
+			<AwayTeam>Everton FC</AwayTeam>
+			<Date>09/11/2014 13:30</Date>
+			<Prediction1>17</Prediction1>
+			<PredictionX>43</PredictionX>
+			<Prediction2>41</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.81</AvgGoals>
+			<Weather>4&deg;-11&deg;</Weather>
+			<FinalScore>1 - 1HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Swansea City</HomeTeam>
+			<AwayTeam>Arsenal</AwayTeam>
+			<Date>09/11/2014 16:00</Date>
+			<Prediction1>21</Prediction1>
+			<PredictionX>49</PredictionX>
+			<Prediction2>30</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.63</AvgGoals>
+			<Weather>6&deg;-12&deg;</Weather>
+			<FinalScore>2 - 1HT 0 - 0</FinalScore>
+		</Match>
+	</league>
+	<league nation='spain'>
+		<Match>
+			<HomeTeam>Córdoba CF</HomeTeam>
+			<AwayTeam>Deportivo La Coruña</AwayTeam>
+			<Date>07/11/2014 19:45</Date>
+			<Prediction1>21</Prediction1>
+			<PredictionX>40</PredictionX>
+			<Prediction2>39</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>2.00</AvgGoals>
+			<Weather>6&deg;-18&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>UD Almería</HomeTeam>
+			<AwayTeam>FC Barcelona</AwayTeam>
+			<Date>08/11/2014 15:00</Date>
+			<Prediction1>10</Prediction1>
+			<PredictionX>30</PredictionX>
+			<Prediction2>60</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>0 - 2</CorrectScore>
+			<AvgGoals>3.23</AvgGoals>
+			<Weather>11&deg;-19&deg;</Weather>
+			<FinalScore>1 - 2HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Getafe CF</HomeTeam>
+			<AwayTeam>Elche CF</AwayTeam>
+			<Date>08/11/2014 17:00</Date>
+			<Prediction1>43</Prediction1>
+			<PredictionX>42</PredictionX>
+			<Prediction2>16</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.63</AvgGoals>
+			<Weather>3&deg;-13&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Real Madrid</HomeTeam>
+			<AwayTeam>Rayo Vallecano</AwayTeam>
+			<Date>08/11/2014 19:00</Date>
+			<Prediction1>74</Prediction1>
+			<PredictionX>14</PredictionX>
+			<Prediction2>13</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>3 - 0</CorrectScore>
+			<AvgGoals>3.58</AvgGoals>
+			<Weather>3&deg;-14&deg;</Weather>
+			<FinalScore>5 - 1HT 2 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Celta de Vigo</HomeTeam>
+			<AwayTeam>Granada CF</AwayTeam>
+			<Date>08/11/2014 21:00</Date>
+			<Prediction1>53</Prediction1>
+			<PredictionX>35</PredictionX>
+			<Prediction2>12</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.70</AvgGoals>
+			<Weather>7&deg;-13&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Málaga CF</HomeTeam>
+			<AwayTeam>SD Eibar</AwayTeam>
+			<Date>08/11/2014 21:00</Date>
+			<Prediction1>40</Prediction1>
+			<PredictionX>50</PredictionX>
+			<Prediction2>10</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>2.63</AvgGoals>
+			<Weather>11&deg;-19&deg;</Weather>
+			<FinalScore>2 - 1HT 0 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Sevilla FC</HomeTeam>
+			<AwayTeam>Levante UD</AwayTeam>
+			<Date>09/11/2014 11:00</Date>
+			<Prediction1>60</Prediction1>
+			<PredictionX>23</PredictionX>
+			<Prediction2>16</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>3 - 2</CorrectScore>
+			<AvgGoals>3.59</AvgGoals>
+			<Weather>8&deg;-19&deg;</Weather>
+			<FinalScore>1 - 1HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Real CD Espanyol</HomeTeam>
+			<AwayTeam>Villarreal CF</AwayTeam>
+			<Date>09/11/2014 16:00</Date>
+			<Prediction1>22</Prediction1>
+			<PredictionX>43</PredictionX>
+			<Prediction2>35</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.13</AvgGoals>
+			<Weather>11&deg;-18&deg;</Weather>
+			<FinalScore>1 - 1HT 0 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Valencia CF</HomeTeam>
+			<AwayTeam>Athletic Bilbao</AwayTeam>
+			<Date>09/11/2014 18:00</Date>
+			<Prediction1>54</Prediction1>
+			<PredictionX>30</PredictionX>
+			<Prediction2>15</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>3.18</AvgGoals>
+			<Weather>9&deg;-20&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Real Sociedad</HomeTeam>
+			<AwayTeam>Atlético Madrid</AwayTeam>
+			<Date>09/11/2014 20:00</Date>
+			<Prediction1>17</Prediction1>
+			<PredictionX>18</PredictionX>
+			<Prediction2>65</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>0 - 1</CorrectScore>
+			<AvgGoals>2.49</AvgGoals>
+			<Weather>11&deg;-20&deg;</Weather>
+			<FinalScore>2 - 1HT 1 - 1</FinalScore>
+		</Match>
+	</league>
+	<league nation='france'>
+		<Match>
+			<HomeTeam>Paris St. Germain</HomeTeam>
+			<AwayTeam>Olympique Marseille</AwayTeam>
+			<Date>09/11/2014 20:00</Date>
+			<Prediction1>30</Prediction1>
+			<PredictionX>41</PredictionX>
+			<Prediction2>29</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>2 - 2</CorrectScore>
+			<AvgGoals>2.34</AvgGoals>
+			<Weather>6&deg;-12&deg;</Weather>
+			<FinalScore>2 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Stade Rennais</HomeTeam>
+			<AwayTeam>FC Lorient</AwayTeam>
+			<Date>07/11/2014 19:30</Date>
+			<Prediction1>51</Prediction1>
+			<PredictionX>30</PredictionX>
+			<Prediction2>19</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.29</AvgGoals>
+			<Weather>4&deg;-13&deg;</Weather>
+			<FinalScore>1 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>RC Lens</HomeTeam>
+			<AwayTeam>Girondins Bordeaux</AwayTeam>
+			<Date>08/11/2014 16:00</Date>
+			<Prediction1>23</Prediction1>
+			<PredictionX>30</PredictionX>
+			<Prediction2>48</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>2.58</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>1 - 2HT 0 - 2</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Évian Thonon Gaillard</HomeTeam>
+			<AwayTeam>OGC Nice</AwayTeam>
+			<Date>08/11/2014 19:00</Date>
+			<Prediction1>32</Prediction1>
+			<PredictionX>24</PredictionX>
+			<Prediction2>45</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>3.83</AvgGoals>
+			<Weather>4&deg;-11&deg;</Weather>
+			<FinalScore>1 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>SC Bastia</HomeTeam>
+			<AwayTeam>Montpellier HSC</AwayTeam>
+			<Date>08/11/2014 19:00</Date>
+			<Prediction1>24</Prediction1>
+			<PredictionX>34</PredictionX>
+			<Prediction2>42</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>0 - 2</CorrectScore>
+			<AvgGoals>2.67</AvgGoals>
+			<Weather>14&deg;-20&deg;</Weather>
+			<FinalScore>2 - 0HT 2 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>SM Caen</HomeTeam>
+			<AwayTeam>FC Nantes</AwayTeam>
+			<Date>08/11/2014 19:00</Date>
+			<Prediction1>20</Prediction1>
+			<PredictionX>34</PredictionX>
+			<Prediction2>46</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>2.31</AvgGoals>
+			<Weather>5&deg;-12&deg;</Weather>
+			<FinalScore>1 - 2HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Toulouse FC</HomeTeam>
+			<AwayTeam>FC Metz</AwayTeam>
+			<Date>08/11/2014 19:00</Date>
+			<Prediction1>36</Prediction1>
+			<PredictionX>40</PredictionX>
+			<Prediction2>25</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>2 - 2</CorrectScore>
+			<AvgGoals>1.92</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>3 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Lyon</HomeTeam>
+			<AwayTeam>Guingamp</AwayTeam>
+			<Date>09/11/2014 13:00</Date>
+			<Prediction1>65</Prediction1>
+			<PredictionX>14</PredictionX>
+			<Prediction2>21</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>3 - 2</CorrectScore>
+			<AvgGoals>3.23</AvgGoals>
+			<Weather>6&deg;-14&deg;</Weather>
+			<FinalScore>3 - 1HT 2 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Stade Reims</HomeTeam>
+			<AwayTeam>Lille OSC</AwayTeam>
+			<Date>09/11/2014 16:00</Date>
+			<Prediction1>39</Prediction1>
+			<PredictionX>42</PredictionX>
+			<Prediction2>19</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>2 - 2</CorrectScore>
+			<AvgGoals>2.25</AvgGoals>
+			<Weather>6&deg;-13&deg;</Weather>
+			<FinalScore>2 - 0HT 2 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>AS Saint-Étienne</HomeTeam>
+			<AwayTeam>AS Monaco</AwayTeam>
+			<Date>09/11/2014 16:00</Date>
+			<Prediction1>30</Prediction1>
+			<PredictionX>44</PredictionX>
+			<Prediction2>26</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>2.28</AvgGoals>
+			<Weather>7&deg;-13&deg;</Weather>
+			<FinalScore>1 - 1HT 0 - 1</FinalScore>
+		</Match>
+	</league>
+	<league nation='italy'>
+		<Match>
+			<HomeTeam>Sassuolo Calcio</HomeTeam>
+			<AwayTeam>Atalanta Bergamo</AwayTeam>
+			<Date>08/11/2014 17:00</Date>
+			<Prediction1>35</Prediction1>
+			<PredictionX>43</PredictionX>
+			<Prediction2>23</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>1.88</AvgGoals>
+			<Weather>12&deg;-17&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Sampdoria</HomeTeam>
+			<AwayTeam>AC Milan</AwayTeam>
+			<Date>08/11/2014 19:45</Date>
+			<Prediction1>28</Prediction1>
+			<PredictionX>46</PredictionX>
+			<Prediction2>26</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.40</AvgGoals>
+			<Weather>14&deg;-18&deg;</Weather>
+			<FinalScore>2 - 2HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Cagliari Calcio</HomeTeam>
+			<AwayTeam>Genoa</AwayTeam>
+			<Date>09/11/2014 11:30</Date>
+			<Prediction1>16</Prediction1>
+			<PredictionX>33</PredictionX>
+			<Prediction2>50</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>3.42</AvgGoals>
+			<Weather>15&deg;-21&deg;</Weather>
+			<FinalScore>1 - 1HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>US Palermo</HomeTeam>
+			<AwayTeam>Udinese Calcio</AwayTeam>
+			<Date>09/11/2014 14:00</Date>
+			<Prediction1>36</Prediction1>
+			<PredictionX>34</PredictionX>
+			<Prediction2>30</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.47</AvgGoals>
+			<Weather>17&deg;-22&deg;</Weather>
+			<FinalScore>1 - 1HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Juventus FC</HomeTeam>
+			<AwayTeam>Parma FC</AwayTeam>
+			<Date>09/11/2014 14:00</Date>
+			<Prediction1>75</Prediction1>
+			<PredictionX>13</PredictionX>
+			<Prediction2>12</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.00</AvgGoals>
+			<Weather>8&deg;-12&deg;</Weather>
+			<FinalScore>7 - 0HT 3 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>ChievoVerona</HomeTeam>
+			<AwayTeam>AC Cesena</AwayTeam>
+			<Date>09/11/2014 14:00</Date>
+			<Prediction1>33</Prediction1>
+			<PredictionX>43</PredictionX>
+			<Prediction2>25</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>1.90</AvgGoals>
+			<Weather>12&deg;-17&deg;</Weather>
+			<FinalScore>2 - 1HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Empoli FC</HomeTeam>
+			<AwayTeam>Lazio</AwayTeam>
+			<Date>09/11/2014 14:00</Date>
+			<Prediction1>13</Prediction1>
+			<PredictionX>28</PredictionX>
+			<Prediction2>60</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 3</CorrectScore>
+			<AvgGoals>2.90</AvgGoals>
+			<Weather>13&deg;-20&deg;</Weather>
+			<FinalScore>2 - 1HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Fiorentina</HomeTeam>
+			<AwayTeam>SSC Napoli</AwayTeam>
+			<Date>09/11/2014 17:00</Date>
+			<Prediction1>19</Prediction1>
+			<PredictionX>43</PredictionX>
+			<Prediction2>37</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>2.46</AvgGoals>
+			<Weather>13&deg;-19&deg;</Weather>
+			<FinalScore>0 - 1HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Inter Milano</HomeTeam>
+			<AwayTeam>Hellas Verona</AwayTeam>
+			<Date>09/11/2014 19:45</Date>
+			<Prediction1>46</Prediction1>
+			<PredictionX>42</PredictionX>
+			<Prediction2>13</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 0</CorrectScore>
+			<AvgGoals>3.54</AvgGoals>
+			<Weather>12&deg;-15&deg;</Weather>
+			<FinalScore>2 - 2HT 1 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>AS Roma</HomeTeam>
+			<AwayTeam>Torino FC</AwayTeam>
+			<Date>09/11/2014 19:45</Date>
+			<Prediction1>65</Prediction1>
+			<PredictionX>22</PredictionX>
+			<Prediction2>13</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.48</AvgGoals>
+			<Weather>14&deg;-19&deg;</Weather>
+			<FinalScore>3 - 0HT 2 - 0</FinalScore>
+		</Match>
+	</league>
+	<league nation='germany'>
+		<Match>
+			<HomeTeam>Hertha BSC</HomeTeam>
+			<AwayTeam>Hannover 96</AwayTeam>
+			<Date>07/11/2014 19:30</Date>
+			<Prediction1>32</Prediction1>
+			<PredictionX>23</PredictionX>
+			<Prediction2>45</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>0 - 2</CorrectScore>
+			<AvgGoals>2.58</AvgGoals>
+			<Weather>7&deg;-11&deg;</Weather>
+			<FinalScore>0 - 2HT 0 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>SC Freiburg</HomeTeam>
+			<AwayTeam>Schalke 04</AwayTeam>
+			<Date>08/11/2014 14:30</Date>
+			<Prediction1>28</Prediction1>
+			<PredictionX>33</PredictionX>
+			<Prediction2>39</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>0 - 1</CorrectScore>
+			<AvgGoals>2.47</AvgGoals>
+			<Weather>4&deg;-13&deg;</Weather>
+			<FinalScore>2 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Hoffenheim</HomeTeam>
+			<AwayTeam>1.FC Köln</AwayTeam>
+			<Date>08/11/2014 14:30</Date>
+			<Prediction1>42</Prediction1>
+			<PredictionX>35</PredictionX>
+			<Prediction2>23</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.55</AvgGoals>
+			<Weather>3&deg;-12&deg;</Weather>
+			<FinalScore>3 - 4HT 3 - 3</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>FC Augsburg</HomeTeam>
+			<AwayTeam>Paderborn</AwayTeam>
+			<Date>08/11/2014 14:30</Date>
+			<Prediction1>32</Prediction1>
+			<PredictionX>36</PredictionX>
+			<Prediction2>32</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>2.10</AvgGoals>
+			<Weather>3&deg;-9&deg;</Weather>
+			<FinalScore>3 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Eintracht Frankfurt</HomeTeam>
+			<AwayTeam>Bayern München</AwayTeam>
+			<Date>08/11/2014 14:30</Date>
+			<Prediction1>14</Prediction1>
+			<PredictionX>27</PredictionX>
+			<Prediction2>59</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>3.71</AvgGoals>
+			<Weather>3&deg;-11&deg;</Weather>
+			<FinalScore>0 - 4HT 0 - 1</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Bayer Leverkusen</HomeTeam>
+			<AwayTeam>Mainz</AwayTeam>
+			<Date>08/11/2014 14:30</Date>
+			<Prediction1>32</Prediction1>
+			<PredictionX>49</PredictionX>
+			<Prediction2>18</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>0 - 0</CorrectScore>
+			<AvgGoals>2.72</AvgGoals>
+			<Weather>7&deg;-13&deg;</Weather>
+			<FinalScore>0 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Werder Bremen</HomeTeam>
+			<AwayTeam>VfB Stuttgart</AwayTeam>
+			<Date>08/11/2014 17:30</Date>
+			<Prediction1>16</Prediction1>
+			<PredictionX>46</PredictionX>
+			<Prediction2>38</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>3.91</AvgGoals>
+			<Weather>3&deg;-9&deg;</Weather>
+			<FinalScore>2 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>VfL Wolfsburg</HomeTeam>
+			<AwayTeam>Hamburger SV</AwayTeam>
+			<Date>09/11/2014 14:30</Date>
+			<Prediction1>58</Prediction1>
+			<PredictionX>26</PredictionX>
+			<Prediction2>16</Prediction2>
+			<PredictionWinner>1</PredictionWinner>
+			<CorrectScore>2 - 1</CorrectScore>
+			<AvgGoals>2.37</AvgGoals>
+			<Weather>4&deg;-12&deg;</Weather>
+			<FinalScore>2 - 0HT 1 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Borussia Dortmund</HomeTeam>
+			<AwayTeam>Mönchengladbach</AwayTeam>
+			<Date>09/11/2014 16:30</Date>
+			<Prediction1>13</Prediction1>
+			<PredictionX>25</PredictionX>
+			<Prediction2>61</Prediction2>
+			<PredictionWinner>2</PredictionWinner>
+			<CorrectScore>1 - 2</CorrectScore>
+			<AvgGoals>2.06</AvgGoals>
+			<Weather>7&deg;-12&deg;</Weather>
+			<FinalScore>1 - 0HT 0 - 0</FinalScore>
+		</Match>
+		<Match>
+			<HomeTeam>Hertha BSC</HomeTeam>
+			<AwayTeam>VfB Stuttgart</AwayTeam>
+			<Date>244234</Date>
+			<Prediction1>24</Prediction1>
+			<PredictionX>42</PredictionX>
+			<Prediction2>34</Prediction2>
+			<PredictionWinner>X</PredictionWinner>
+			<CorrectScore>1 - 1</CorrectScore>
+			<AvgGoals>5.67</AvgGoals>
+			<Weather>7&deg;-11&deg;</Weather>
+			<FinalScore>-</FinalScore>
+		</Match>
+	</league>
 </rss>
