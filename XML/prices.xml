@@ -1,0 +1,16 @@
+<rss version='2.0'>
+<prices>
+	<national>
+		<Premium>155.581,922</Premium>
+		<Wnewsletters>24</Wnewsletters>
+		<Wcolumns>24</Wcolumns>
+		<Weach>6.482,580</Weach>
+	</national>
+	<international>
+		<Premium>694.867,111</Premium>
+		<Wnewsletters>-</Wnewsletters>
+		<Wcolumns>-</Wcolumns>
+		<Weach>-</Weach>
+	</international>
+</prices>
+</rss>
