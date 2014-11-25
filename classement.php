@@ -44,7 +44,7 @@
 	$myFileXML .="</rss>";
 	// echo $myFileXML;
 	$fh=fopen($myFile, "w");
-    fwrite($fh, utf8_encode ($myFileXML));
+    fwrite($fh, $myFileXML);
 	fclose($fh);
 	//end XML processing
 ?>
