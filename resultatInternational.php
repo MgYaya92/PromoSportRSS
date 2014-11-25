@@ -1,7 +1,7 @@
 <?php 
 	$homepage=file_get_contents("http://www.promosport.sport.tn/index.php?rid=17");
 	$xml="";
-	$myFile="XML/resultatInternational.xml";
+	$myFile="XML/resultatInternationalPROMOSPORT.xml";
 	//$homepage = nl2br($homepage);
 	$homepage=strstr($homepage,"<!-- fin ajout 2 -->");
 	$homepage=strstr($homepage,"noi11n");
