@@ -6,8 +6,9 @@
 	$myFile = "XML/teamInfo/".date("YmdH").trim(strrchr($_GET["link"],"/"),"/").".xml";
 	if(file_exists($myFile))
 	{
-		$homepage=file_get_contents($myFile);
-		echo $homepage;
+		//$homepage=file_get_contents($myFile);
+		//echo $homepage;
+		header("location:".$myFile);
 	}else
 	{
 		require_once("simple_html_dom.php");
@@ -105,6 +106,6 @@
 		$fh=fopen($myFile, "w");
 		fwrite($fh,$myFileXML);
 		fclose($fh);
-		echo $myFileXML;
+		header("location:".$myFile);
 	}	
 ?>
