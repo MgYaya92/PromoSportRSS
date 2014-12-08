@@ -1,0 +1,558 @@
+<rss version='2.0'>
+	<team>
+		<info>
+			<teamName>Chelsea FC</teamName>
+			<teamLocation>London</teamLocation>
+			<teamWebsite>http://www.chelseafc.com/</teamWebsite>
+		</info>
+		<nextmatch>
+			<nextMatch1X2></nextMatch1X2>
+			<nextMatchAVG></nextMatchAVG>
+			<nextMatchSCORE>-</nextMatchSCORE>
+		</nextmatch>
+		<playedgames>
+			<match>
+				<DateM>03.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Tottenham</TeamB>
+			</match>
+			<match>
+				<DateM>29.11.2014</DateM>
+				<TeamA>Sunderland</TeamA>
+				<Score>0 - 0</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>25.11.2014</DateM>
+				<TeamA>Schalke 04</TeamA>
+				<Score>0 - 5</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>22.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>West Bromwich</TeamB>
+			</match>
+			<match>
+				<DateM>08.11.2014</DateM>
+				<TeamA>Liverpool FC</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.11.2014</DateM>
+				<TeamA>NK Maribor</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>01.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 1</Score>
+				<TeamB>QPR</TeamB>
+			</match>
+			<match>
+				<DateM>26.10.2014</DateM>
+				<TeamA>Manchester United</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>21.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>6 - 0</Score>
+				<TeamB>NK Maribor</TeamB>
+			</match>
+			<match>
+				<DateM>18.10.2014</DateM>
+				<TeamA>Crystal Palace</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Arsenal</TeamB>
+			</match>
+			<match>
+				<DateM>30.09.2014</DateM>
+				<TeamA>Sporting Lisboa</TeamA>
+				<Score>0 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>27.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Aston Villa</TeamB>
+			</match>
+			<match>
+				<DateM>21.09.2014</DateM>
+				<TeamA>Manchester City</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>17.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Schalke 04</TeamB>
+			</match>
+			<match>
+				<DateM>13.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>4 - 2</Score>
+				<TeamB>Swansea City</TeamB>
+			</match>
+			<match>
+				<DateM>30.08.2014</DateM>
+				<TeamA>Everton FC</TeamA>
+				<Score>3 - 6</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>23.08.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Leicester City</TeamB>
+			</match>
+			<match>
+				<DateM>18.08.2014</DateM>
+				<TeamA>Burnley FC</TeamA>
+				<Score>1 - 3</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</playedgames>
+		<homematchs>
+			<match>
+				<DateM>03.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Tottenham</TeamB>
+			</match>
+			<match>
+				<DateM>22.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>West Bromwich</TeamB>
+			</match>
+			<match>
+				<DateM>01.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 1</Score>
+				<TeamB>QPR</TeamB>
+			</match>
+			<match>
+				<DateM>21.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>6 - 0</Score>
+				<TeamB>NK Maribor</TeamB>
+			</match>
+			<match>
+				<DateM>05.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Arsenal</TeamB>
+			</match>
+			<match>
+				<DateM>27.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Aston Villa</TeamB>
+			</match>
+			<match>
+				<DateM>17.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Schalke 04</TeamB>
+			</match>
+			<match>
+				<DateM>13.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>4 - 2</Score>
+				<TeamB>Swansea City</TeamB>
+			</match>
+			<match>
+				<DateM>23.08.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Leicester City</TeamB>
+			</match>
+		</homematchs>
+		<awaymatchs>
+			<match>
+				<DateM>29.11.2014</DateM>
+				<TeamA>Sunderland</TeamA>
+				<Score>0 - 0</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>25.11.2014</DateM>
+				<TeamA>Schalke 04</TeamA>
+				<Score>0 - 5</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>08.11.2014</DateM>
+				<TeamA>Liverpool FC</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.11.2014</DateM>
+				<TeamA>NK Maribor</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>26.10.2014</DateM>
+				<TeamA>Manchester United</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>18.10.2014</DateM>
+				<TeamA>Crystal Palace</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>30.09.2014</DateM>
+				<TeamA>Sporting Lisboa</TeamA>
+				<Score>0 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>21.09.2014</DateM>
+				<TeamA>Manchester City</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>30.08.2014</DateM>
+				<TeamA>Everton FC</TeamA>
+				<Score>3 - 6</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>18.08.2014</DateM>
+				<TeamA>Burnley FC</TeamA>
+				<Score>1 - 3</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</awaymatchs>
+		<nextsixmatchs>
+			<match>
+				<DateM>10.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>Sporting Lisboa</TeamB>
+			</match>
+			<match>
+				<DateM>13.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>Hull City</TeamB>
+			</match>
+			<match>
+				<DateM>20.12.2014</DateM>
+				<TeamA>Stoke City</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>24.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>West Ham</TeamB>
+			</match>
+			<match>
+				<DateM>28.12.2014</DateM>
+				<TeamA>Southampton</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>01.01.2015</DateM>
+				<TeamA>Tottenham</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</nextsixmatchs>
+	</team>
+	<team>
+		<info>
+			<teamName>Chelsea FC</teamName>
+			<teamLocation>London</teamLocation>
+			<teamWebsite>http://www.chelseafc.com/</teamWebsite>
+		</info>
+		<nextmatch>
+			<nextMatch1X2></nextMatch1X2>
+			<nextMatchAVG></nextMatchAVG>
+			<nextMatchSCORE>-</nextMatchSCORE>
+		</nextmatch>
+		<playedgames>
+			<match>
+				<DateM>03.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Tottenham</TeamB>
+			</match>
+			<match>
+				<DateM>29.11.2014</DateM>
+				<TeamA>Sunderland</TeamA>
+				<Score>0 - 0</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>25.11.2014</DateM>
+				<TeamA>Schalke 04</TeamA>
+				<Score>0 - 5</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>22.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>West Bromwich</TeamB>
+			</match>
+			<match>
+				<DateM>08.11.2014</DateM>
+				<TeamA>Liverpool FC</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.11.2014</DateM>
+				<TeamA>NK Maribor</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>01.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 1</Score>
+				<TeamB>QPR</TeamB>
+			</match>
+			<match>
+				<DateM>26.10.2014</DateM>
+				<TeamA>Manchester United</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>21.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>6 - 0</Score>
+				<TeamB>NK Maribor</TeamB>
+			</match>
+			<match>
+				<DateM>18.10.2014</DateM>
+				<TeamA>Crystal Palace</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Arsenal</TeamB>
+			</match>
+			<match>
+				<DateM>30.09.2014</DateM>
+				<TeamA>Sporting Lisboa</TeamA>
+				<Score>0 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>27.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Aston Villa</TeamB>
+			</match>
+			<match>
+				<DateM>21.09.2014</DateM>
+				<TeamA>Manchester City</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>17.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Schalke 04</TeamB>
+			</match>
+			<match>
+				<DateM>13.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>4 - 2</Score>
+				<TeamB>Swansea City</TeamB>
+			</match>
+			<match>
+				<DateM>30.08.2014</DateM>
+				<TeamA>Everton FC</TeamA>
+				<Score>3 - 6</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>23.08.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Leicester City</TeamB>
+			</match>
+			<match>
+				<DateM>18.08.2014</DateM>
+				<TeamA>Burnley FC</TeamA>
+				<Score>1 - 3</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</playedgames>
+		<homematchs>
+			<match>
+				<DateM>03.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Tottenham</TeamB>
+			</match>
+			<match>
+				<DateM>22.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>West Bromwich</TeamB>
+			</match>
+			<match>
+				<DateM>01.11.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 1</Score>
+				<TeamB>QPR</TeamB>
+			</match>
+			<match>
+				<DateM>21.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>6 - 0</Score>
+				<TeamB>NK Maribor</TeamB>
+			</match>
+			<match>
+				<DateM>05.10.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Arsenal</TeamB>
+			</match>
+			<match>
+				<DateM>27.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>3 - 0</Score>
+				<TeamB>Aston Villa</TeamB>
+			</match>
+			<match>
+				<DateM>17.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Schalke 04</TeamB>
+			</match>
+			<match>
+				<DateM>13.09.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>4 - 2</Score>
+				<TeamB>Swansea City</TeamB>
+			</match>
+			<match>
+				<DateM>23.08.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<Score>2 - 0</Score>
+				<TeamB>Leicester City</TeamB>
+			</match>
+		</homematchs>
+		<awaymatchs>
+			<match>
+				<DateM>29.11.2014</DateM>
+				<TeamA>Sunderland</TeamA>
+				<Score>0 - 0</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>25.11.2014</DateM>
+				<TeamA>Schalke 04</TeamA>
+				<Score>0 - 5</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>08.11.2014</DateM>
+				<TeamA>Liverpool FC</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>05.11.2014</DateM>
+				<TeamA>NK Maribor</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>26.10.2014</DateM>
+				<TeamA>Manchester United</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>18.10.2014</DateM>
+				<TeamA>Crystal Palace</TeamA>
+				<Score>1 - 2</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>30.09.2014</DateM>
+				<TeamA>Sporting Lisboa</TeamA>
+				<Score>0 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>21.09.2014</DateM>
+				<TeamA>Manchester City</TeamA>
+				<Score>1 - 1</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>30.08.2014</DateM>
+				<TeamA>Everton FC</TeamA>
+				<Score>3 - 6</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>18.08.2014</DateM>
+				<TeamA>Burnley FC</TeamA>
+				<Score>1 - 3</Score>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</awaymatchs>
+		<nextsixmatchs>
+			<match>
+				<DateM>10.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>Sporting Lisboa</TeamB>
+			</match>
+			<match>
+				<DateM>13.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>Hull City</TeamB>
+			</match>
+			<match>
+				<DateM>20.12.2014</DateM>
+				<TeamA>Stoke City</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>24.12.2014</DateM>
+				<TeamA>Chelsea FC</TeamA>
+				<TeamB>West Ham</TeamB>
+			</match>
+			<match>
+				<DateM>28.12.2014</DateM>
+				<TeamA>Southampton</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+			<match>
+				<DateM>01.01.2015</DateM>
+				<TeamA>Tottenham</TeamA>
+				<TeamB>Chelsea FC</TeamB>
+			</match>
+		</nextsixmatchs>
+	</team>
+</rss>
