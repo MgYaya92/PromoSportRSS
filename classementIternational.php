@@ -10,6 +10,8 @@
 	$leagues[2]["lien"]="http://www.forebet.com/en/football-tips-and-predictions-for-germany.html?league=7&task=standing";
 	$leagues[3]["name"]="France";
 	$leagues[3]["lien"]="http://www.forebet.com/en/football-tips-and-predictions-for-france.html?league=8&task=standing";
+	$leagues[4]["name"]="Italy";
+	$leagues[4]["lien"]="http://www.forebet.com/en/football-tips-and-predictions-for-italy.html?league=6&task=standing";
 	
 	
 	foreach($leagues as $league)

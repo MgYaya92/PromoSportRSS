@@ -3,944 +3,1186 @@
 		<team>
 			<rang>1</rang>
 			<name>Chelsea FC</name>
-			<pts>32</pts>
-			<played>12</played>
-			<wins>10</wins>
-			<draws>2</draws>
-			<loses>0</loses>
-			<goals>30</goals>
-			<Cgoals>11</Cgoals>
-			<diff>19</diff>
+			<pts>36</pts>
+			<played>15</played>
+			<wins>11</wins>
+			<draws>3</draws>
+			<loses>1</loses>
+			<goals>34</goals>
+			<Cgoals>13</Cgoals>
+			<diff>21</diff>
 		</team>
 		<team>
 			<rang>2</rang>
-			<name>Southampton</name>
-			<pts>26</pts>
-			<played>12</played>
-			<wins>8</wins>
-			<draws>2</draws>
+			<name>Manchester City</name>
+			<pts>33</pts>
+			<played>15</played>
+			<wins>10</wins>
+			<draws>3</draws>
 			<loses>2</loses>
-			<goals>24</goals>
-			<Cgoals>6</Cgoals>
+			<goals>32</goals>
+			<Cgoals>14</Cgoals>
 			<diff>18</diff>
 		</team>
 		<team>
 			<rang>3</rang>
-			<name>Manchester City</name>
-			<pts>24</pts>
-			<played>12</played>
-			<wins>7</wins>
+			<name>West Ham</name>
+			<pts>27</pts>
+			<played>15</played>
+			<wins>8</wins>
 			<draws>3</draws>
-			<loses>2</loses>
-			<goals>24</goals>
-			<Cgoals>13</Cgoals>
-			<diff>11</diff>
+			<loses>4</loses>
+			<goals>26</goals>
+			<Cgoals>18</Cgoals>
+			<diff>8</diff>
 		</team>
 		<team>
 			<rang>4</rang>
-			<name>Manchester United</name>
-			<pts>19</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>4</draws>
-			<loses>3</loses>
-			<goals>19</goals>
-			<Cgoals>15</Cgoals>
-			<diff>4</diff>
+			<name>Southampton</name>
+			<pts>26</pts>
+			<played>14</played>
+			<wins>8</wins>
+			<draws>2</draws>
+			<loses>4</loses>
+			<goals>24</goals>
+			<Cgoals>10</Cgoals>
+			<diff>14</diff>
 		</team>
 		<team>
 			<rang>5</rang>
-			<name>Newcastle Utd</name>
-			<pts>19</pts>
-			<played>12</played>
-			<wins>5</wins>
+			<name>Manchester United</name>
+			<pts>25</pts>
+			<played>14</played>
+			<wins>7</wins>
 			<draws>4</draws>
 			<loses>3</loses>
-			<goals>14</goals>
-			<Cgoals>15</Cgoals>
-			<diff>-1</diff>
+			<goals>24</goals>
+			<Cgoals>16</Cgoals>
+			<diff>8</diff>
 		</team>
 		<team>
 			<rang>6</rang>
-			<name>West Ham</name>
-			<pts>18</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>3</draws>
+			<name>Arsenal</name>
+			<pts>23</pts>
+			<played>15</played>
+			<wins>6</wins>
+			<draws>5</draws>
 			<loses>4</loses>
-			<goals>20</goals>
-			<Cgoals>16</Cgoals>
-			<diff>4</diff>
+			<goals>24</goals>
+			<Cgoals>18</Cgoals>
+			<diff>6</diff>
 		</team>
 		<team>
 			<rang>7</rang>
-			<name>Swansea City</name>
-			<pts>18</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>3</draws>
+			<name>Newcastle Utd</name>
+			<pts>23</pts>
+			<played>15</played>
+			<wins>6</wins>
+			<draws>5</draws>
 			<loses>4</loses>
-			<goals>16</goals>
-			<Cgoals>13</Cgoals>
-			<diff>3</diff>
+			<goals>17</goals>
+			<Cgoals>18</Cgoals>
+			<diff>-1</diff>
 		</team>
 		<team>
 			<rang>8</rang>
-			<name>Arsenal</name>
-			<pts>17</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>5</draws>
-			<loses>3</loses>
+			<name>Swansea City</name>
+			<pts>22</pts>
+			<played>15</played>
+			<wins>6</wins>
+			<draws>4</draws>
+			<loses>5</loses>
 			<goals>20</goals>
-			<Cgoals>15</Cgoals>
-			<diff>5</diff>
+			<Cgoals>17</Cgoals>
+			<diff>3</diff>
 		</team>
 		<team>
 			<rang>9</rang>
-			<name>Everton FC</name>
-			<pts>17</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>5</draws>
-			<loses>3</loses>
-			<goals>22</goals>
+			<name>Liverpool FC</name>
+			<pts>21</pts>
+			<played>15</played>
+			<wins>6</wins>
+			<draws>3</draws>
+			<loses>6</loses>
+			<goals>19</goals>
 			<Cgoals>19</Cgoals>
-			<diff>3</diff>
+			<diff>0</diff>
 		</team>
 		<team>
 			<rang>10</rang>
 			<name>Tottenham</name>
-			<pts>17</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>2</draws>
-			<loses>5</loses>
-			<goals>16</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-1</diff>
-		</team>
-		<team>
-			<rang>11</rang>
-			<name>Stoke City</name>
-			<pts>15</pts>
-			<played>12</played>
-			<wins>4</wins>
+			<pts>21</pts>
+			<played>15</played>
+			<wins>6</wins>
 			<draws>3</draws>
-			<loses>5</loses>
-			<goals>13</goals>
-			<Cgoals>15</Cgoals>
-			<diff>-2</diff>
-		</team>
-		<team>
-			<rang>12</rang>
-			<name>Liverpool FC</name>
-			<pts>14</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>2</draws>
 			<loses>6</loses>
-			<goals>15</goals>
-			<Cgoals>18</Cgoals>
+			<goals>18</goals>
+			<Cgoals>21</Cgoals>
 			<diff>-3</diff>
 		</team>
 		<team>
-			<rang>13</rang>
-			<name>West Bromwich</name>
-			<pts>13</pts>
-			<played>12</played>
-			<wins>3</wins>
+			<rang>11</rang>
+			<name>Aston Villa</name>
+			<pts>19</pts>
+			<played>15</played>
+			<wins>5</wins>
 			<draws>4</draws>
+			<loses>6</loses>
+			<goals>10</goals>
+			<Cgoals>19</Cgoals>
+			<diff>-9</diff>
+		</team>
+		<team>
+			<rang>12</rang>
+			<name>Everton FC</name>
+			<pts>18</pts>
+			<played>15</played>
+			<wins>4</wins>
+			<draws>6</draws>
 			<loses>5</loses>
-			<goals>13</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-4</diff>
+			<goals>24</goals>
+			<Cgoals>23</Cgoals>
+			<diff>1</diff>
+		</team>
+		<team>
+			<rang>13</rang>
+			<name>Stoke City</name>
+			<pts>18</pts>
+			<played>15</played>
+			<wins>5</wins>
+			<draws>3</draws>
+			<loses>7</loses>
+			<goals>17</goals>
+			<Cgoals>20</Cgoals>
+			<diff>-3</diff>
 		</team>
 		<team>
 			<rang>14</rang>
 			<name>Sunderland</name>
-			<pts>13</pts>
-			<played>12</played>
+			<pts>15</pts>
+			<played>15</played>
 			<wins>2</wins>
-			<draws>7</draws>
-			<loses>3</loses>
-			<goals>12</goals>
-			<Cgoals>19</Cgoals>
-			<diff>-7</diff>
+			<draws>9</draws>
+			<loses>4</loses>
+			<goals>13</goals>
+			<Cgoals>23</Cgoals>
+			<diff>-10</diff>
 		</team>
 		<team>
 			<rang>15</rang>
 			<name>Crystal Palace</name>
-			<pts>12</pts>
-			<played>12</played>
+			<pts>14</pts>
+			<played>15</played>
 			<wins>3</wins>
-			<draws>3</draws>
-			<loses>6</loses>
-			<goals>17</goals>
-			<Cgoals>21</Cgoals>
-			<diff>-4</diff>
+			<draws>5</draws>
+			<loses>7</loses>
+			<goals>18</goals>
+			<Cgoals>23</Cgoals>
+			<diff>-5</diff>
 		</team>
 		<team>
 			<rang>16</rang>
-			<name>Leicester City</name>
-			<pts>12</pts>
-			<played>12</played>
+			<name>West Bromwich</name>
+			<pts>14</pts>
+			<played>15</played>
 			<wins>3</wins>
-			<draws>3</draws>
-			<loses>6</loses>
-			<goals>11</goals>
-			<Cgoals>17</Cgoals>
+			<draws>5</draws>
+			<loses>7</loses>
+			<goals>14</goals>
+			<Cgoals>20</Cgoals>
 			<diff>-6</diff>
 		</team>
 		<team>
 			<rang>17</rang>
-			<name>Aston Villa</name>
-			<pts>12</pts>
-			<played>12</played>
-			<wins>3</wins>
-			<draws>3</draws>
-			<loses>6</loses>
-			<goals>6</goals>
-			<Cgoals>17</Cgoals>
+			<name>QPR</name>
+			<pts>14</pts>
+			<played>15</played>
+			<wins>4</wins>
+			<draws>2</draws>
+			<loses>9</loses>
+			<goals>16</goals>
+			<Cgoals>27</Cgoals>
 			<diff>-11</diff>
 		</team>
 		<team>
 			<rang>18</rang>
 			<name>Hull City</name>
-			<pts>11</pts>
-			<played>12</played>
+			<pts>13</pts>
+			<played>15</played>
 			<wins>2</wins>
-			<draws>5</draws>
-			<loses>5</loses>
-			<goals>14</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-3</diff>
+			<draws>7</draws>
+			<loses>6</loses>
+			<goals>15</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-6</diff>
 		</team>
 		<team>
 			<rang>19</rang>
-			<name>Burnley FC</name>
-			<pts>9</pts>
-			<played>12</played>
-			<wins>2</wins>
+			<name>Leicester City</name>
+			<pts>12</pts>
+			<played>15</played>
+			<wins>3</wins>
 			<draws>3</draws>
-			<loses>7</loses>
-			<goals>7</goals>
-			<Cgoals>20</Cgoals>
-			<diff>-13</diff>
+			<loses>9</loses>
+			<goals>15</goals>
+			<Cgoals>25</Cgoals>
+			<diff>-10</diff>
 		</team>
 		<team>
 			<rang></rang>
 			<name>20</name>
-			<pts>QPR</pts>
-			<played>8</played>
-			<wins>12</wins>
+			<pts>Burnley FC</pts>
+			<played>11</played>
+			<wins>15</wins>
 			<draws>2</draws>
-			<loses>2</loses>
+			<loses>5</loses>
 			<goals>8</goals>
-			<Cgoals>11</Cgoals>
-			<diff>23</diff>
+			<Cgoals>9</Cgoals>
+			<diff>24</diff>
 		</team>
 	</league>
 	<league nation='Spain'>
 		<team>
 			<rang>1</rang>
 			<name>Real Madrid</name>
-			<pts>30</pts>
-			<played>12</played>
-			<wins>10</wins>
+			<pts>36</pts>
+			<played>14</played>
+			<wins>12</wins>
 			<draws>0</draws>
 			<loses>2</loses>
-			<goals>46</goals>
-			<Cgoals>11</Cgoals>
-			<diff>35</diff>
+			<goals>51</goals>
+			<Cgoals>12</Cgoals>
+			<diff>39</diff>
 		</team>
 		<team>
 			<rang>2</rang>
 			<name>FC Barcelona</name>
-			<pts>28</pts>
-			<played>12</played>
-			<wins>9</wins>
+			<pts>34</pts>
+			<played>14</played>
+			<wins>11</wins>
 			<draws>1</draws>
 			<loses>2</loses>
-			<goals>30</goals>
-			<Cgoals>6</Cgoals>
-			<diff>24</diff>
+			<goals>36</goals>
+			<Cgoals>7</Cgoals>
+			<diff>29</diff>
 		</team>
 		<team>
 			<rang>3</rang>
 			<name>Atlético Madrid</name>
-			<pts>26</pts>
-			<played>12</played>
-			<wins>8</wins>
+			<pts>32</pts>
+			<played>14</played>
+			<wins>10</wins>
 			<draws>2</draws>
 			<loses>2</loses>
-			<goals>23</goals>
+			<goals>27</goals>
 			<Cgoals>12</Cgoals>
-			<diff>11</diff>
+			<diff>15</diff>
 		</team>
 		<team>
 			<rang>4</rang>
-			<name>Valencia CF</name>
-			<pts>24</pts>
-			<played>12</played>
-			<wins>7</wins>
-			<draws>3</draws>
-			<loses>2</loses>
-			<goals>24</goals>
-			<Cgoals>11</Cgoals>
-			<diff>13</diff>
+			<name>Sevilla FC</name>
+			<pts>29</pts>
+			<played>14</played>
+			<wins>9</wins>
+			<draws>2</draws>
+			<loses>3</loses>
+			<goals>25</goals>
+			<Cgoals>17</Cgoals>
+			<diff>8</diff>
 		</team>
 		<team>
 			<rang>5</rang>
-			<name>Sevilla FC</name>
-			<pts>23</pts>
-			<played>12</played>
+			<name>Valencia CF</name>
+			<pts>25</pts>
+			<played>14</played>
 			<wins>7</wins>
-			<draws>2</draws>
+			<draws>4</draws>
 			<loses>3</loses>
-			<goals>19</goals>
-			<Cgoals>16</Cgoals>
-			<diff>3</diff>
+			<goals>25</goals>
+			<Cgoals>13</Cgoals>
+			<diff>12</diff>
 		</team>
 		<team>
 			<rang>6</rang>
-			<name>Celta de Vigo</name>
-			<pts>20</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>5</draws>
-			<loses>2</loses>
-			<goals>17</goals>
-			<Cgoals>12</Cgoals>
-			<diff>5</diff>
+			<name>Villarreal CF</name>
+			<pts>24</pts>
+			<played>14</played>
+			<wins>7</wins>
+			<draws>3</draws>
+			<loses>4</loses>
+			<goals>23</goals>
+			<Cgoals>14</Cgoals>
+			<diff>9</diff>
 		</team>
 		<team>
 			<rang>7</rang>
 			<name>Málaga CF</name>
-			<pts>20</pts>
-			<played>11</played>
+			<pts>21</pts>
+			<played>13</played>
 			<wins>6</wins>
-			<draws>2</draws>
-			<loses>3</loses>
-			<goals>13</goals>
-			<Cgoals>10</Cgoals>
-			<diff>3</diff>
+			<draws>3</draws>
+			<loses>4</loses>
+			<goals>15</goals>
+			<Cgoals>13</Cgoals>
+			<diff>2</diff>
 		</team>
 		<team>
 			<rang>8</rang>
-			<name>Villarreal CF</name>
-			<pts>18</pts>
-			<played>12</played>
+			<name>Celta de Vigo</name>
+			<pts>20</pts>
+			<played>14</played>
 			<wins>5</wins>
-			<draws>3</draws>
+			<draws>5</draws>
 			<loses>4</loses>
 			<goals>17</goals>
-			<Cgoals>14</Cgoals>
-			<diff>3</diff>
+			<Cgoals>16</Cgoals>
+			<diff>1</diff>
 		</team>
 		<team>
 			<rang>9</rang>
 			<name>Athletic Bilbao</name>
-			<pts>15</pts>
-			<played>12</played>
-			<wins>4</wins>
+			<pts>18</pts>
+			<played>14</played>
+			<wins>5</wins>
 			<draws>3</draws>
-			<loses>5</loses>
-			<goals>10</goals>
-			<Cgoals>13</Cgoals>
+			<loses>6</loses>
+			<goals>12</goals>
+			<Cgoals>15</Cgoals>
 			<diff>-3</diff>
 		</team>
 		<team>
 			<rang>10</rang>
-			<name>Getafe CF</name>
-			<pts>14</pts>
-			<played>12</played>
-			<wins>4</wins>
+			<name>Rayo Vallecano</name>
+			<pts>17</pts>
+			<played>14</played>
+			<wins>5</wins>
 			<draws>2</draws>
-			<loses>6</loses>
-			<goals>9</goals>
-			<Cgoals>16</Cgoals>
-			<diff>-7</diff>
+			<loses>7</loses>
+			<goals>16</goals>
+			<Cgoals>25</Cgoals>
+			<diff>-9</diff>
 		</team>
 		<team>
 			<rang>11</rang>
-			<name>Rayo Vallecano</name>
-			<pts>14</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>2</draws>
-			<loses>6</loses>
-			<goals>15</goals>
-			<Cgoals>24</Cgoals>
-			<diff>-9</diff>
-		</team>
-		<team>
-			<rang>12</rang>
 			<name>SD Eibar</name>
-			<pts>13</pts>
-			<played>12</played>
-			<wins>3</wins>
+			<pts>16</pts>
+			<played>13</played>
+			<wins>4</wins>
 			<draws>4</draws>
 			<loses>5</loses>
-			<goals>13</goals>
+			<goals>14</goals>
 			<Cgoals>19</Cgoals>
-			<diff>-6</diff>
-		</team>
-		<team>
-			<rang>13</rang>
-			<name>Levante UD</name>
-			<pts>12</pts>
-			<played>12</played>
-			<wins>3</wins>
-			<draws>3</draws>
-			<loses>6</loses>
-			<goals>9</goals>
-			<Cgoals>26</Cgoals>
-			<diff>-17</diff>
-		</team>
-		<team>
-			<rang>14</rang>
-			<name>Granada CF</name>
-			<pts>11</pts>
-			<played>12</played>
-			<wins>2</wins>
-			<draws>5</draws>
-			<loses>5</loses>
-			<goals>6</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-11</diff>
-		</team>
-		<team>
-			<rang>15</rang>
-			<name>Real Sociedad</name>
-			<pts>10</pts>
-			<played>12</played>
-			<wins>2</wins>
-			<draws>4</draws>
-			<loses>6</loses>
-			<goals>12</goals>
-			<Cgoals>16</Cgoals>
-			<diff>-4</diff>
-		</team>
-		<team>
-			<rang>16</rang>
-			<name>Real CD Espanyol</name>
-			<pts>10</pts>
-			<played>11</played>
-			<wins>2</wins>
-			<draws>4</draws>
-			<loses>5</loses>
-			<goals>10</goals>
-			<Cgoals>14</Cgoals>
-			<diff>-4</diff>
-		</team>
-		<team>
-			<rang>17</rang>
-			<name>UD Almería</name>
-			<pts>10</pts>
-			<played>12</played>
-			<wins>2</wins>
-			<draws>4</draws>
-			<loses>6</loses>
-			<goals>9</goals>
-			<Cgoals>14</Cgoals>
 			<diff>-5</diff>
 		</team>
 		<team>
-			<rang>18</rang>
-			<name>Deportivo La Coruña</name>
-			<pts>10</pts>
-			<played>12</played>
-			<wins>2</wins>
+			<rang>12</rang>
+			<name>Getafe CF</name>
+			<pts>14</pts>
+			<played>13</played>
+			<wins>4</wins>
+			<draws>2</draws>
+			<loses>7</loses>
+			<goals>10</goals>
+			<Cgoals>18</Cgoals>
+			<diff>-8</diff>
+		</team>
+		<team>
+			<rang>13</rang>
+			<name>Real Sociedad</name>
+			<pts>13</pts>
+			<played>14</played>
+			<wins>3</wins>
+			<draws>4</draws>
+			<loses>7</loses>
+			<goals>15</goals>
+			<Cgoals>20</Cgoals>
+			<diff>-5</diff>
+		</team>
+		<team>
+			<rang>14</rang>
+			<name>Real CD Espanyol</name>
+			<pts>13</pts>
+			<played>13</played>
+			<wins>3</wins>
 			<draws>4</draws>
 			<loses>6</loses>
-			<goals>12</goals>
-			<Cgoals>21</Cgoals>
-			<diff>-9</diff>
+			<goals>13</goals>
+			<Cgoals>20</Cgoals>
+			<diff>-7</diff>
+		</team>
+		<team>
+			<rang>15</rang>
+			<name>Granada CF</name>
+			<pts>12</pts>
+			<played>14</played>
+			<wins>2</wins>
+			<draws>6</draws>
+			<loses>6</loses>
+			<goals>8</goals>
+			<Cgoals>23</Cgoals>
+			<diff>-15</diff>
+		</team>
+		<team>
+			<rang>16</rang>
+			<name>Levante UD</name>
+			<pts>12</pts>
+			<played>13</played>
+			<wins>3</wins>
+			<draws>3</draws>
+			<loses>7</loses>
+			<goals>10</goals>
+			<Cgoals>28</Cgoals>
+			<diff>-18</diff>
+		</team>
+		<team>
+			<rang>17</rang>
+			<name>Deportivo La Coruña</name>
+			<pts>11</pts>
+			<played>14</played>
+			<wins>2</wins>
+			<draws>5</draws>
+			<loses>7</loses>
+			<goals>13</goals>
+			<Cgoals>24</Cgoals>
+			<diff>-11</diff>
+		</team>
+		<team>
+			<rang>18</rang>
+			<name>UD Almería</name>
+			<pts>10</pts>
+			<played>13</played>
+			<wins>2</wins>
+			<draws>4</draws>
+			<loses>7</loses>
+			<goals>9</goals>
+			<Cgoals>15</Cgoals>
+			<diff>-6</diff>
 		</team>
 		<team>
 			<rang>19</rang>
-			<name>Elche CF</name>
+			<name>Córdoba CF</name>
 			<pts>10</pts>
-			<played>12</played>
-			<wins>2</wins>
-			<draws>4</draws>
+			<played>14</played>
+			<wins>1</wins>
+			<draws>7</draws>
 			<loses>6</loses>
-			<goals>12</goals>
-			<Cgoals>24</Cgoals>
-			<diff>-12</diff>
+			<goals>11</goals>
+			<Cgoals>22</Cgoals>
+			<diff>-11</diff>
 		</team>
 		<team>
 			<rang></rang>
 			<name>20</name>
-			<pts>Córdoba CF</pts>
-			<played>7</played>
-			<wins>12</wins>
-			<draws>0</draws>
-			<loses>7</loses>
-			<goals>5</goals>
-			<Cgoals>10</Cgoals>
-			<diff>20</diff>
+			<pts>Elche CF</pts>
+			<played>10</played>
+			<wins>14</wins>
+			<draws>2</draws>
+			<loses>4</loses>
+			<goals>8</goals>
+			<Cgoals>12</Cgoals>
+			<diff>29</diff>
 		</team>
 	</league>
 	<league nation='Germany'>
 		<team>
 			<rang>1</rang>
 			<name>Bayern München</name>
-			<pts>30</pts>
-			<played>12</played>
-			<wins>9</wins>
+			<pts>36</pts>
+			<played>14</played>
+			<wins>11</wins>
 			<draws>3</draws>
 			<loses>0</loses>
-			<goals>31</goals>
+			<goals>33</goals>
 			<Cgoals>3</Cgoals>
-			<diff>28</diff>
+			<diff>30</diff>
 		</team>
 		<team>
 			<rang>2</rang>
 			<name>VfL Wolfsburg</name>
-			<pts>23</pts>
-			<played>12</played>
-			<wins>7</wins>
+			<pts>29</pts>
+			<played>14</played>
+			<wins>9</wins>
 			<draws>2</draws>
 			<loses>3</loses>
-			<goals>24</goals>
-			<Cgoals>12</Cgoals>
-			<diff>12</diff>
+			<goals>28</goals>
+			<Cgoals>13</Cgoals>
+			<diff>15</diff>
 		</team>
 		<team>
 			<rang>3</rang>
-			<name>Mönchengladbach</name>
-			<pts>20</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>5</draws>
-			<loses>2</loses>
-			<goals>16</goals>
-			<Cgoals>9</Cgoals>
-			<diff>7</diff>
+			<name>FC Augsburg</name>
+			<pts>24</pts>
+			<played>14</played>
+			<wins>8</wins>
+			<draws>0</draws>
+			<loses>6</loses>
+			<goals>20</goals>
+			<Cgoals>14</Cgoals>
+			<diff>6</diff>
 		</team>
 		<team>
 			<rang>4</rang>
 			<name>Bayer Leverkusen</name>
-			<pts>20</pts>
-			<played>12</played>
-			<wins>5</wins>
+			<pts>23</pts>
+			<played>14</played>
+			<wins>6</wins>
 			<draws>5</draws>
-			<loses>2</loses>
-			<goals>20</goals>
-			<Cgoals>16</Cgoals>
-			<diff>4</diff>
+			<loses>3</loses>
+			<goals>25</goals>
+			<Cgoals>18</Cgoals>
+			<diff>7</diff>
 		</team>
 		<team>
 			<rang>5</rang>
-			<name>Hannover 96</name>
-			<pts>19</pts>
-			<played>12</played>
-			<wins>6</wins>
-			<draws>1</draws>
+			<name>Schalke 04</name>
+			<pts>23</pts>
+			<played>14</played>
+			<wins>7</wins>
+			<draws>2</draws>
 			<loses>5</loses>
-			<goals>10</goals>
-			<Cgoals>14</Cgoals>
-			<diff>-4</diff>
+			<goals>25</goals>
+			<Cgoals>18</Cgoals>
+			<diff>7</diff>
 		</team>
 		<team>
 			<rang>6</rang>
-			<name>FC Augsburg</name>
-			<pts>18</pts>
-			<played>12</played>
+			<name>Mönchengladbach</name>
+			<pts>23</pts>
+			<played>14</played>
 			<wins>6</wins>
-			<draws>0</draws>
-			<loses>6</loses>
-			<goals>15</goals>
+			<draws>5</draws>
+			<loses>3</loses>
+			<goals>19</goals>
 			<Cgoals>12</Cgoals>
-			<diff>3</diff>
+			<diff>7</diff>
 		</team>
 		<team>
 			<rang>7</rang>
-			<name>Schalke 04</name>
-			<pts>17</pts>
-			<played>12</played>
-			<wins>5</wins>
-			<draws>2</draws>
+			<name>Eintracht Frankfurt</name>
+			<pts>21</pts>
+			<played>14</played>
+			<wins>6</wins>
+			<draws>3</draws>
 			<loses>5</loses>
-			<goals>17</goals>
-			<Cgoals>17</Cgoals>
-			<diff>0</diff>
+			<goals>27</goals>
+			<Cgoals>26</Cgoals>
+			<diff>1</diff>
 		</team>
 		<team>
 			<rang>8</rang>
 			<name>Hoffenheim</name>
-			<pts>17</pts>
-			<played>12</played>
-			<wins>4</wins>
+			<pts>20</pts>
+			<played>14</played>
+			<wins>5</wins>
 			<draws>5</draws>
-			<loses>3</loses>
-			<goals>17</goals>
-			<Cgoals>18</Cgoals>
+			<loses>4</loses>
+			<goals>21</goals>
+			<Cgoals>22</Cgoals>
 			<diff>-1</diff>
 		</team>
 		<team>
 			<rang>9</rang>
-			<name>Mainz</name>
-			<pts>16</pts>
-			<played>12</played>
-			<wins>3</wins>
-			<draws>7</draws>
-			<loses>2</loses>
-			<goals>15</goals>
-			<Cgoals>14</Cgoals>
-			<diff>1</diff>
+			<name>Hannover 96</name>
+			<pts>19</pts>
+			<played>14</played>
+			<wins>6</wins>
+			<draws>1</draws>
+			<loses>7</loses>
+			<goals>14</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-7</diff>
 		</team>
 		<team>
 			<rang>10</rang>
 			<name>Paderborn</name>
-			<pts>16</pts>
-			<played>12</played>
+			<pts>17</pts>
+			<played>14</played>
 			<wins>4</wins>
-			<draws>4</draws>
-			<loses>4</loses>
-			<goals>18</goals>
-			<Cgoals>18</Cgoals>
-			<diff>0</diff>
-		</team>
-		<team>
-			<rang>11</rang>
-			<name>1FC Köln</name>
-			<pts>15</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>3</draws>
+			<draws>5</draws>
 			<loses>5</loses>
-			<goals>12</goals>
-			<Cgoals>13</Cgoals>
-			<diff>-1</diff>
-		</team>
-		<team>
-			<rang>12</rang>
-			<name>Eintracht Frankfurt</name>
-			<pts>15</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>3</draws>
-			<loses>5</loses>
-			<goals>20</goals>
-			<Cgoals>24</Cgoals>
+			<goals>19</goals>
+			<Cgoals>23</Cgoals>
 			<diff>-4</diff>
 		</team>
 		<team>
-			<rang>13</rang>
-			<name>Hertha BSC</name>
-			<pts>14</pts>
-			<played>12</played>
-			<wins>4</wins>
-			<draws>2</draws>
-			<loses>6</loses>
-			<goals>17</goals>
-			<Cgoals>22</Cgoals>
-			<diff>-5</diff>
-		</team>
-		<team>
-			<rang>14</rang>
-			<name>SC Freiburg</name>
-			<pts>12</pts>
-			<played>12</played>
-			<wins>2</wins>
-			<draws>6</draws>
+			<rang>11</rang>
+			<name>Mainz</name>
+			<pts>16</pts>
+			<played>14</played>
+			<wins>3</wins>
+			<draws>7</draws>
 			<loses>4</loses>
-			<goals>13</goals>
-			<Cgoals>16</Cgoals>
+			<goals>17</goals>
+			<Cgoals>20</Cgoals>
 			<diff>-3</diff>
 		</team>
 		<team>
-			<rang>15</rang>
-			<name>Hamburger SV</name>
-			<pts>12</pts>
-			<played>12</played>
-			<wins>3</wins>
+			<rang>12</rang>
+			<name>1FC Köln</name>
+			<pts>15</pts>
+			<played>14</played>
+			<wins>4</wins>
 			<draws>3</draws>
-			<loses>6</loses>
-			<goals>6</goals>
-			<Cgoals>14</Cgoals>
-			<diff>-8</diff>
+			<loses>7</loses>
+			<goals>14</goals>
+			<Cgoals>20</Cgoals>
+			<diff>-6</diff>
+		</team>
+		<team>
+			<rang>13</rang>
+			<name>Hamburger SV</name>
+			<pts>15</pts>
+			<played>14</played>
+			<wins>4</wins>
+			<draws>3</draws>
+			<loses>7</loses>
+			<goals>9</goals>
+			<Cgoals>18</Cgoals>
+			<diff>-9</diff>
+		</team>
+		<team>
+			<rang>14</rang>
+			<name>Borussia Dortmund</name>
+			<pts>14</pts>
+			<played>14</played>
+			<wins>4</wins>
+			<draws>2</draws>
+			<loses>8</loses>
+			<goals>15</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-6</diff>
+		</team>
+		<team>
+			<rang>15</rang>
+			<name>Hertha BSC</name>
+			<pts>14</pts>
+			<played>14</played>
+			<wins>4</wins>
+			<draws>2</draws>
+			<loses>8</loses>
+			<goals>19</goals>
+			<Cgoals>26</Cgoals>
+			<diff>-7</diff>
 		</team>
 		<team>
 			<rang>16</rang>
-			<name>Borussia Dortmund</name>
-			<pts>11</pts>
-			<played>12</played>
-			<wins>3</wins>
-			<draws>2</draws>
-			<loses>7</loses>
-			<goals>14</goals>
-			<Cgoals>19</Cgoals>
-			<diff>-5</diff>
+			<name>SC Freiburg</name>
+			<pts>13</pts>
+			<played>14</played>
+			<wins>2</wins>
+			<draws>7</draws>
+			<loses>5</loses>
+			<goals>15</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-6</diff>
 		</team>
 		<team>
 			<rang>17</rang>
 			<name>Werder Bremen</name>
-			<pts>10</pts>
-			<played>12</played>
-			<wins>2</wins>
+			<pts>13</pts>
+			<played>14</played>
+			<wins>3</wins>
 			<draws>4</draws>
-			<loses>6</loses>
-			<goals>14</goals>
-			<Cgoals>26</Cgoals>
-			<diff>-12</diff>
+			<loses>7</loses>
+			<goals>20</goals>
+			<Cgoals>31</Cgoals>
+			<diff>-11</diff>
 		</team>
 		<team>
 			<rang></rang>
 			<name>18</name>
 			<pts>VfB Stuttgart</pts>
-			<played>9</played>
-			<wins>12</wins>
-			<draws>2</draws>
+			<played>12</played>
+			<wins>14</wins>
+			<draws>3</draws>
 			<loses>3</loses>
-			<goals>7</goals>
-			<Cgoals>14</Cgoals>
-			<diff>26</diff>
+			<goals>8</goals>
+			<Cgoals>18</Cgoals>
+			<diff>31</diff>
 		</team>
 	</league>
 	<league nation='France'>
 		<team>
 			<rang>1</rang>
 			<name>Olympique Marseille</name>
-			<pts>31</pts>
-			<played>14</played>
-			<wins>10</wins>
-			<draws>1</draws>
+			<pts>38</pts>
+			<played>17</played>
+			<wins>12</wins>
+			<draws>2</draws>
 			<loses>3</loses>
-			<goals>30</goals>
-			<Cgoals>13</Cgoals>
-			<diff>17</diff>
+			<goals>36</goals>
+			<Cgoals>15</Cgoals>
+			<diff>21</diff>
 		</team>
 		<team>
 			<rang>2</rang>
 			<name>Paris St Germain</name>
-			<pts>30</pts>
-			<played>14</played>
-			<wins>8</wins>
-			<draws>6</draws>
+			<pts>37</pts>
+			<played>17</played>
+			<wins>10</wins>
+			<draws>7</draws>
 			<loses>0</loses>
-			<goals>28</goals>
-			<Cgoals>10</Cgoals>
-			<diff>18</diff>
+			<goals>32</goals>
+			<Cgoals>12</Cgoals>
+			<diff>20</diff>
 		</team>
 		<team>
 			<rang>3</rang>
 			<name>Lyon</name>
-			<pts>27</pts>
-			<played>14</played>
-			<wins>8</wins>
+			<pts>33</pts>
+			<played>17</played>
+			<wins>10</wins>
 			<draws>3</draws>
-			<loses>3</loses>
-			<goals>27</goals>
-			<Cgoals>11</Cgoals>
-			<diff>16</diff>
+			<loses>4</loses>
+			<goals>32</goals>
+			<Cgoals>17</Cgoals>
+			<diff>15</diff>
 		</team>
 		<team>
 			<rang>4</rang>
-			<name>FC Nantes</name>
-			<pts>24</pts>
-			<played>14</played>
-			<wins>6</wins>
-			<draws>6</draws>
-			<loses>2</loses>
-			<goals>13</goals>
-			<Cgoals>9</Cgoals>
-			<diff>4</diff>
+			<name>AS Saint-Étienne</name>
+			<pts>32</pts>
+			<played>17</played>
+			<wins>9</wins>
+			<draws>5</draws>
+			<loses>3</loses>
+			<goals>19</goals>
+			<Cgoals>12</Cgoals>
+			<diff>7</diff>
 		</team>
 		<team>
 			<rang>5</rang>
 			<name>Girondins Bordeaux</name>
-			<pts>24</pts>
-			<played>14</played>
-			<wins>7</wins>
-			<draws>3</draws>
+			<pts>31</pts>
+			<played>17</played>
+			<wins>9</wins>
+			<draws>4</draws>
 			<loses>4</loses>
+			<goals>25</goals>
+			<Cgoals>20</Cgoals>
+			<diff>5</diff>
+		</team>
+		<team>
+			<rang>6</rang>
+			<name>Stade Rennais</name>
+			<pts>28</pts>
+			<played>17</played>
+			<wins>8</wins>
+			<draws>4</draws>
+			<loses>5</loses>
+			<goals>20</goals>
+			<Cgoals>19</Cgoals>
+			<diff>1</diff>
+		</team>
+		<team>
+			<rang>7</rang>
+			<name>AS Monaco</name>
+			<pts>26</pts>
+			<played>17</played>
+			<wins>7</wins>
+			<draws>5</draws>
+			<loses>5</loses>
 			<goals>21</goals>
 			<Cgoals>18</Cgoals>
 			<diff>3</diff>
 		</team>
 		<team>
-			<rang>6</rang>
-			<name>AS Saint-Étienne</name>
-			<pts>23</pts>
-			<played>14</played>
-			<wins>6</wins>
-			<draws>5</draws>
-			<loses>3</loses>
-			<goals>13</goals>
-			<Cgoals>12</Cgoals>
-			<diff>1</diff>
-		</team>
-		<team>
-			<rang>7</rang>
-			<name>Stade Rennais</name>
-			<pts>22</pts>
-			<played>14</played>
-			<wins>6</wins>
-			<draws>4</draws>
-			<loses>4</loses>
-			<goals>16</goals>
-			<Cgoals>14</Cgoals>
+			<rang>8</rang>
+			<name>Montpellier HSC</name>
+			<pts>24</pts>
+			<played>17</played>
+			<wins>7</wins>
+			<draws>3</draws>
+			<loses>7</loses>
+			<goals>18</goals>
+			<Cgoals>16</Cgoals>
 			<diff>2</diff>
 		</team>
 		<team>
-			<rang>8</rang>
-			<name>AS Monaco</name>
-			<pts>20</pts>
-			<played>14</played>
-			<wins>5</wins>
-			<draws>5</draws>
-			<loses>4</loses>
-			<goals>17</goals>
-			<Cgoals>16</Cgoals>
-			<diff>1</diff>
-		</team>
-		<team>
 			<rang>9</rang>
-			<name>Montpellier HSC</name>
-			<pts>20</pts>
-			<played>14</played>
+			<name>FC Nantes</name>
+			<pts>24</pts>
+			<played>17</played>
 			<wins>6</wins>
-			<draws>2</draws>
-			<loses>6</loses>
-			<goals>13</goals>
-			<Cgoals>13</Cgoals>
+			<draws>6</draws>
+			<loses>5</loses>
+			<goals>15</goals>
+			<Cgoals>15</Cgoals>
 			<diff>0</diff>
 		</team>
 		<team>
 			<rang>10</rang>
 			<name>Stade Reims</name>
-			<pts>19</pts>
-			<played>14</played>
-			<wins>5</wins>
+			<pts>22</pts>
+			<played>17</played>
+			<wins>6</wins>
 			<draws>4</draws>
-			<loses>5</loses>
-			<goals>14</goals>
-			<Cgoals>21</Cgoals>
-			<diff>-7</diff>
+			<loses>7</loses>
+			<goals>19</goals>
+			<Cgoals>27</Cgoals>
+			<diff>-8</diff>
 		</team>
 		<team>
 			<rang>11</rang>
 			<name>OGC Nice</name>
-			<pts>18</pts>
-			<played>14</played>
-			<wins>5</wins>
+			<pts>21</pts>
+			<played>17</played>
+			<wins>6</wins>
 			<draws>3</draws>
-			<loses>6</loses>
-			<goals>17</goals>
-			<Cgoals>19</Cgoals>
-			<diff>-2</diff>
+			<loses>8</loses>
+			<goals>21</goals>
+			<Cgoals>24</Cgoals>
+			<diff>-3</diff>
 		</team>
 		<team>
 			<rang>12</rang>
+			<name>Toulouse FC</name>
+			<pts>20</pts>
+			<played>17</played>
+			<wins>6</wins>
+			<draws>2</draws>
+			<loses>9</loses>
+			<goals>21</goals>
+			<Cgoals>25</Cgoals>
+			<diff>-4</diff>
+		</team>
+		<team>
+			<rang>13</rang>
 			<name>FC Metz</name>
+			<pts>19</pts>
+			<played>17</played>
+			<wins>5</wins>
+			<draws>4</draws>
+			<loses>8</loses>
+			<goals>16</goals>
+			<Cgoals>23</Cgoals>
+			<diff>-7</diff>
+		</team>
+		<team>
+			<rang>14</rang>
+			<name>Évian Thonon Gaillard</name>
+			<pts>19</pts>
+			<played>16</played>
+			<wins>6</wins>
+			<draws>1</draws>
+			<loses>9</loses>
+			<goals>18</goals>
+			<Cgoals>26</Cgoals>
+			<diff>-8</diff>
+		</team>
+		<team>
+			<rang>15</rang>
+			<name>Lille OSC</name>
 			<pts>18</pts>
+			<played>16</played>
+			<wins>4</wins>
+			<draws>6</draws>
+			<loses>6</loses>
+			<goals>11</goals>
+			<Cgoals>15</Cgoals>
+			<diff>-4</diff>
+		</team>
+		<team>
+			<rang>16</rang>
+			<name>Guingamp</name>
+			<pts>18</pts>
+			<played>17</played>
+			<wins>6</wins>
+			<draws>0</draws>
+			<loses>11</loses>
+			<goals>18</goals>
+			<Cgoals>30</Cgoals>
+			<diff>-12</diff>
+		</team>
+		<team>
+			<rang>17</rang>
+			<name>FC Lorient</name>
+			<pts>17</pts>
+			<played>17</played>
+			<wins>5</wins>
+			<draws>2</draws>
+			<loses>10</loses>
+			<goals>17</goals>
+			<Cgoals>23</Cgoals>
+			<diff>-6</diff>
+		</team>
+		<team>
+			<rang>18</rang>
+			<name>RC Lens</name>
+			<pts>15</pts>
+			<played>17</played>
+			<wins>4</wins>
+			<draws>3</draws>
+			<loses>10</loses>
+			<goals>15</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-6</diff>
+		</team>
+		<team>
+			<rang>19</rang>
+			<name>SM Caen</name>
+			<pts>14</pts>
+			<played>17</played>
+			<wins>3</wins>
+			<draws>5</draws>
+			<loses>9</loses>
+			<goals>21</goals>
+			<Cgoals>28</Cgoals>
+			<diff>-7</diff>
+		</team>
+		<team>
+			<rang></rang>
+			<name>20</name>
+			<pts>SC Bastia</pts>
+			<played>14</played>
+			<wins>17</wins>
+			<draws>3</draws>
+			<loses>5</loses>
+			<goals>9</goals>
+			<Cgoals>13</Cgoals>
+			<diff>22</diff>
+		</team>
+	</league>
+	<league nation='Italy'>
+		<team>
+			<rang>1</rang>
+			<name>Juventus FC</name>
+			<pts>35</pts>
+			<played>14</played>
+			<wins>11</wins>
+			<draws>2</draws>
+			<loses>1</loses>
+			<goals>30</goals>
+			<Cgoals>5</Cgoals>
+			<diff>25</diff>
+		</team>
+		<team>
+			<rang>2</rang>
+			<name>AS Roma</name>
+			<pts>32</pts>
+			<played>14</played>
+			<wins>10</wins>
+			<draws>2</draws>
+			<loses>2</loses>
+			<goals>27</goals>
+			<Cgoals>11</Cgoals>
+			<diff>16</diff>
+		</team>
+		<team>
+			<rang>3</rang>
+			<name>Genoa</name>
+			<pts>26</pts>
+			<played>14</played>
+			<wins>7</wins>
+			<draws>5</draws>
+			<loses>2</loses>
+			<goals>20</goals>
+			<Cgoals>12</Cgoals>
+			<diff>8</diff>
+		</team>
+		<team>
+			<rang>4</rang>
+			<name>SSC Napoli</name>
+			<pts>24</pts>
+			<played>14</played>
+			<wins>6</wins>
+			<draws>6</draws>
+			<loses>2</loses>
+			<goals>26</goals>
+			<Cgoals>18</Cgoals>
+			<diff>8</diff>
+		</team>
+		<team>
+			<rang>5</rang>
+			<name>Lazio</name>
+			<pts>23</pts>
+			<played>14</played>
+			<wins>7</wins>
+			<draws>2</draws>
+			<loses>5</loses>
+			<goals>23</goals>
+			<Cgoals>17</Cgoals>
+			<diff>6</diff>
+		</team>
+		<team>
+			<rang>6</rang>
+			<name>Sampdoria</name>
+			<pts>22</pts>
+			<played>13</played>
+			<wins>5</wins>
+			<draws>7</draws>
+			<loses>1</loses>
+			<goals>16</goals>
+			<Cgoals>10</Cgoals>
+			<diff>6</diff>
+		</team>
+		<team>
+			<rang>7</rang>
+			<name>AC Milan</name>
+			<pts>21</pts>
 			<played>14</played>
 			<wins>5</wins>
+			<draws>6</draws>
+			<loses>3</loses>
+			<goals>23</goals>
+			<Cgoals>18</Cgoals>
+			<diff>5</diff>
+		</team>
+		<team>
+			<rang>8</rang>
+			<name>Udinese Calcio</name>
+			<pts>21</pts>
+			<played>14</played>
+			<wins>6</wins>
 			<draws>3</draws>
-			<loses>6</loses>
+			<loses>5</loses>
+			<goals>17</goals>
+			<Cgoals>18</Cgoals>
+			<diff>-1</diff>
+		</team>
+		<team>
+			<rang>9</rang>
+			<name>Fiorentina</name>
+			<pts>20</pts>
+			<played>14</played>
+			<wins>5</wins>
+			<draws>5</draws>
+			<loses>4</loses>
+			<goals>16</goals>
+			<Cgoals>11</Cgoals>
+			<diff>5</diff>
+		</team>
+		<team>
+			<rang>10</rang>
+			<name>Sassuolo Calcio</name>
+			<pts>19</pts>
+			<played>14</played>
+			<wins>4</wins>
+			<draws>7</draws>
+			<loses>3</loses>
 			<goals>15</goals>
 			<Cgoals>18</Cgoals>
 			<diff>-3</diff>
 		</team>
 		<team>
-			<rang>13</rang>
-			<name>Toulouse FC</name>
+			<rang>11</rang>
+			<name>US Palermo</name>
+			<pts>18</pts>
+			<played>14</played>
+			<wins>4</wins>
+			<draws>6</draws>
+			<loses>4</loses>
+			<goals>17</goals>
+			<Cgoals>22</Cgoals>
+			<diff>-5</diff>
+		</team>
+		<team>
+			<rang>12</rang>
+			<name>Inter Milano</name>
 			<pts>17</pts>
 			<played>14</played>
-			<wins>5</wins>
-			<draws>2</draws>
-			<loses>7</loses>
-			<goals>17</goals>
-			<Cgoals>19</Cgoals>
-			<diff>-2</diff>
+			<wins>4</wins>
+			<draws>5</draws>
+			<loses>5</loses>
+			<goals>21</goals>
+			<Cgoals>21</Cgoals>
+			<diff>0</diff>
+		</team>
+		<team>
+			<rang>13</rang>
+			<name>Empoli FC</name>
+			<pts>15</pts>
+			<played>14</played>
+			<wins>3</wins>
+			<draws>6</draws>
+			<loses>5</loses>
+			<goals>16</goals>
+			<Cgoals>21</Cgoals>
+			<diff>-5</diff>
 		</team>
 		<team>
 			<rang>14</rang>
-			<name>Lille OSC</name>
-			<pts>16</pts>
+			<name>Hellas Verona</name>
+			<pts>14</pts>
 			<played>13</played>
-			<wins>4</wins>
-			<draws>4</draws>
+			<wins>3</wins>
+			<draws>5</draws>
 			<loses>5</loses>
-			<goals>9</goals>
-			<Cgoals>12</Cgoals>
-			<diff>-3</diff>
+			<goals>15</goals>
+			<Cgoals>22</Cgoals>
+			<diff>-7</diff>
 		</team>
 		<team>
 			<rang>15</rang>
-			<name>SC Bastia</name>
+			<name>Atalanta Bergamo</name>
 			<pts>14</pts>
 			<played>14</played>
 			<wins>3</wins>
 			<draws>5</draws>
 			<loses>6</loses>
-			<goals>11</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-6</diff>
+			<goals>8</goals>
+			<Cgoals>15</Cgoals>
+			<diff>-7</diff>
 		</team>
 		<team>
 			<rang>16</rang>
-			<name>SM Caen</name>
+			<name>Torino FC</name>
 			<pts>13</pts>
 			<played>14</played>
 			<wins>3</wins>
 			<draws>4</draws>
 			<loses>7</loses>
-			<goals>17</goals>
-			<Cgoals>19</Cgoals>
-			<diff>-2</diff>
+			<goals>10</goals>
+			<Cgoals>17</Cgoals>
+			<diff>-7</diff>
 		</team>
 		<team>
 			<rang>17</rang>
-			<name>FC Lorient</name>
-			<pts>13</pts>
-			<played>14</played>
-			<wins>4</wins>
-			<draws>1</draws>
-			<loses>9</loses>
-			<goals>11</goals>
-			<Cgoals>17</Cgoals>
-			<diff>-6</diff>
+			<name>Cagliari Calcio</name>
+			<pts>11</pts>
+			<played>13</played>
+			<wins>2</wins>
+			<draws>5</draws>
+			<loses>6</loses>
+			<goals>20</goals>
+			<Cgoals>24</Cgoals>
+			<diff>-4</diff>
 		</team>
 		<team>
 			<rang>18</rang>
-			<name>Évian Thonon Gaillard</name>
-			<pts>13</pts>
+			<name>ChievoVerona</name>
+			<pts>10</pts>
 			<played>13</played>
-			<wins>4</wins>
-			<draws>1</draws>
-			<loses>8</loses>
-			<goals>12</goals>
-			<Cgoals>22</Cgoals>
-			<diff>-10</diff>
+			<wins>2</wins>
+			<draws>4</draws>
+			<loses>7</loses>
+			<goals>9</goals>
+			<Cgoals>17</Cgoals>
+			<diff>-8</diff>
 		</team>
 		<team>
 			<rang>19</rang>
-			<name>Guingamp</name>
-			<pts>12</pts>
+			<name>AC Cesena</name>
+			<pts>8</pts>
 			<played>14</played>
-			<wins>4</wins>
-			<draws>0</draws>
-			<loses>10</loses>
-			<goals>10</goals>
+			<wins>1</wins>
+			<draws>5</draws>
+			<loses>8</loses>
+			<goals>11</goals>
 			<Cgoals>25</Cgoals>
-			<diff>-15</diff>
+			<diff>-14</diff>
 		</team>
 		<team>
 			<rang></rang>
 			<name>20</name>
-			<pts>RC Lens</pts>
-			<played>11</played>
+			<pts>Parma FC</pts>
+			<played>6</played>
 			<wins>14</wins>
-			<draws>3</draws>
-			<loses>2</loses>
-			<goals>9</goals>
-			<Cgoals>12</Cgoals>
-			<diff>18</diff>
+			<draws>2</draws>
+			<loses>0</loses>
+			<goals>12</goals>
+			<Cgoals>16</Cgoals>
+			<diff>34</diff>
 		</team>
 	</league>
 </rss>

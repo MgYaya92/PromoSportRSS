@@ -29,6 +29,7 @@
 		$nextMatch1X2	= trim($html->find(".tpredict",0)->plaintext);
 		$nextMatchAVG	= trim($html->find(".tpredict",1)->plaintext);
 		$nextMatchSCORE	= trim($html->find(".tpredict",2)->plaintext);
+		$nextMatchHour  = trim($html->find(".inpage_match_hour",0)->plaintext);
 		$myFileXML.="\t<team>\n";
 		//INFO
 			$myFileXML.="\t\t<info>\n";
@@ -43,6 +44,7 @@
 				$myFileXML.="\t\t\t<nextMatch1X2>".$nextMatch1X2."</nextMatch1X2>\n";
 				$myFileXML.="\t\t\t<nextMatchAVG>".$nextMatchAVG."</nextMatchAVG>\n";
 				$myFileXML.="\t\t\t<nextMatchSCORE>".$nextMatchSCORE."</nextMatchSCORE>\n";
+				$myFileXML.="\t\t\t<nextMatchHOUR>".$nextMatchHour."</nextMatchHOUR>\n";
 			$myFileXML.="\t\t</nextmatch>\n";
 		//END NEXT MATCH
 		
